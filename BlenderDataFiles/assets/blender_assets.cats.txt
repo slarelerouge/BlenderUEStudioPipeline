@@ -1,0 +1,11 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+ffdfad96-41a4-49ff-afb4-6e30be8b17a2:MasterMaterial:MasterMaterial
+b30e7717-c45f-4eea-ad02-a65b40d915c0:MaterialInstance:MaterialInstance
+dc22cedb-0ca0-46f3-a020-09335bfdb7ac:Multimat:Multimat
